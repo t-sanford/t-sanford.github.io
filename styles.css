@@ -32,11 +32,13 @@ h1 {
 }
 
 .left-column {
+    float: left;
     width: 480px;
     padding-left: 5px;
 }
 
 .right-column {
+    float: right;
     text-align: right;
     width: 480px;
     padding-right: 5px;
