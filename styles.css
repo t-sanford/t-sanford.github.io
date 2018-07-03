@@ -23,7 +23,7 @@ body {
 }
 
 h1 {
-    color: blue;
+    color: green;
 }
 
 .column-header {
@@ -33,14 +33,14 @@ h1 {
 
 .left-column {
     float: left;
-    width: 480px;
+    width: 50%;
     padding-left: 5px;
 }
 
 .right-column {
     float: right;
     text-align: right;
-    width: 480px;
+    width: 50%;
     padding-right: 5px;
 }
 
