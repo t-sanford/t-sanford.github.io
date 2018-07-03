@@ -12,13 +12,24 @@ body {
 
 .main-heading {
     text-align: center;
+    border-bottom: 3px solid green;
+    border-top: 3px solid green;
 }
 
 h1 {
     color: blue;
 }
 
+.column-header {
+    text-align: center;
+    color: green;
+}
+
 .left-column {
     width: 500px;
     padding-left: 10px;
+}
+
+.left-column p {
+    font-size: 50%;
 }
